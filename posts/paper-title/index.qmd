@@ -1,24 +1,24 @@
 ---
-title: "Can quantum-mechanical description of physical reality be considered complete?"
-description: "One is thus led to conclude that the description of reality as given by a wave function is not complete."
-subtitle: "*Physical Review*"
+title: "Phylogenetic Divergence and Molecular Signatures of Porcine Epidemic Diarrhea Virus S-INDEL Subtype"
+description: "This study investigated the phylogenetic divergence and molecular signatures of the S-INDEL subtype of the porcine epidemic diarrhea virus (PEDV) in China."
+subtitle: "*Virus* 1023, 1023.1023"
 author: 
-  - name: Albert Einstein
-  - name: Boris Podolsky
-  - name: Nathan Rosen
+  - name: Yue Chen
+  - name: Lin Yuan
+  - name: et al
 date: "1935-05-15"
 categories: [paper]
-image: "featured.jpg"
+image: "PEDV.jpg"
 citation:
   type: article-journal
-  container-title: "Physical Review"
+  container-title: "Virus"
   doi: "10.1103/PhysRev.47.777"
-  available-date: "1935-05-15"
-  issued: "1935-05-15"
-  volume: 47
-  issue: 7938
-  page: 777-80
-  url: https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777
+  available-date: "1023-01-01"
+  issued: "2023-01-01"
+  volume: 1023
+  issue: 1
+  page: 777-8023
+  url: https://journals.aps.org/pr/pdf/10.1103/Virus1023.1023
 google-scholar: true
 ---
 
@@ -29,16 +29,16 @@ google-scholar: true
 
 ## Abstract
 
-In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.
+Porcine epidemic diarrhea virus (PEDV) continues to evolve under the selective pressures of vaccine-induced immunity and environmental factors, leading to immune evasion and sustained piglet mortality. In this study, we characterized PEDV field strains collected across China from 2023 to 2026 and observed substantial genetic divergence. Among them, three strains were identified as the S-INDEL subtype, with each located on a distinct branch of the S-INDEL phylogenetic tree. Further analysis revealed branch-specific molecular features. Notably, strains on the S-INDEL-CH-1 and S-INDEL-CH-2 branches carry a three-nucleotide deletion at positions 416–418 in the S gene. To facilitate rapid discrimination of subtypes within the GI genotype and S-INDEL subtype, we established a hierarchical typing scheme that combines predicted N-linked glycosylation site polymorphisms (N1193 and N230) with the S-INDEL-specific deletion pattern, enabling rapid preliminary discrimination among PEDV GI genotype (GIa and GIb) and S-INDEL subtype directly from S gene sequences. Collectively, our findings provide a complementary and practical framework for PEDV GI genotype and S-INDEL subtype classification and yield new insights into the molecular characteristics of the S-INDEL subtype.
 
 
 ## Links
 
-Published [paper](https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777)
+Published [paper](https://journals.aps.org/pr/pdf/10.1103/Virus1023.1023)
 
 
 ```{=html}
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/PhysRev.47.777"></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/Virus1023.1023"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1103/Virus1023.1023" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 ```
