@@ -15,7 +15,80 @@
 <link>https://myvetai.pages.dev/posts.html</link>
 </image>
 <generator>quarto-1.8.27</generator>
-<lastBuildDate>Mon, 14 Oct 2024 16:00:00 GMT</lastBuildDate>
+<lastBuildDate>Fri, 11 Sep 2026 16:00:00 GMT</lastBuildDate>
+<item>
+  <title>Phylogenetic Divergence and Molecular Signatures of Porcine Epidemic Diarrhea Virus S-INDEL Subtype</title>
+  <dc:creator>Yue Chen</dc:creator>
+  <dc:creator>Lin Yuan</dc:creator>
+  <dc:creator>Wenqiang Wang</dc:creator>
+  <dc:creator>Lulu Chen</dc:creator>
+  <dc:creator>Can Cui</dc:creator>
+  <dc:creator>Jie Zhang</dc:creator>
+  <dc:creator>Zhenbang Zhu</dc:creator>
+  <dc:creator>Wei Wen</dc:creator>
+  <dc:creator>Kegong Tian</dc:creator>
+  <dc:creator>Xiangdong Li</dc:creator>
+  <link>https://myvetai.pages.dev/posts/paper-title/</link>
+  <description><![CDATA[ 
+
+
+
+
+<!--Include academic icons or bottons-->
+<!-- 
+Load Academicons v1: https://jpswalsh.github.io/academicons/
+-->
+<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
+<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
+<!---
+The following code are needed to show dimension citation and altmetrics.
+https://api.altmetric.com/embeds.html
+https://badge.dimensions.ai/
+--->
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
+<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
+<section id="abstract" class="level2">
+<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+<p>Porcine epidemic diarrhea virus (PEDV) continues to evolve under the selective pressures of vaccine-induced immunity and environmental factors, leading to immune evasion and sustained piglet mortality. In this study, we characterized PEDV field strains collected across China from 2023 to 2026 and observed substantial genetic divergence. Among them, three strains were identified as the S-INDEL subtype, with each located on a distinct branch of the S-INDEL phylogenetic tree. Further analysis revealed branch-specific molecular features. Notably, strains on the S-INDEL-CH-1 and S-INDEL-CH-2 branches carry a three-nucleotide deletion at positions 416–418 in the S gene. To facilitate rapid discrimination of subtypes within the GI genotype and S-INDEL subtype, we established a hierarchical typing scheme that combines predicted N-linked glycosylation site polymorphisms (N1193 and N230) with the S-INDEL-specific deletion pattern, enabling rapid preliminary discrimination among PEDV GI genotype (GIa and GIb) and S-INDEL subtype directly from S gene sequences. Collectively, our findings provide a complementary and practical framework for PEDV GI genotype and S-INDEL subtype classification and yield new insights into the molecular characteristics of the S-INDEL subtype.</p>
+</section>
+<section id="links" class="level2">
+<h2 class="anchored" data-anchor-id="links">Links</h2>
+<p>Published <a href="https://doi.org/10.1155/tbed/1604677">paper</a></p>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1155/tbed/1604677"></div>
+
+<span class="__dimensions_badge_embed__" data-doi="10.1155/tbed/1604677" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+
+
+</section>
+
+<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{chen2026,
+  author = {Chen, Yue and Yuan, Lin and Wang, Wenqiang and Chen, Lulu
+    and Cui, Can and Zhang, Jie and Zhu, Zhenbang and Wen, Wei and Tian,
+    Kegong and Li, Xiangdong},
+  title = {Phylogenetic {Divergence} and {Molecular} {Signatures} of
+    {Porcine} {Epidemic} {Diarrhea} {Virus} {S-INDEL} {Subtype}},
+  journal = {Transboundary and Emerging Diseases},
+  volume = {2026},
+  number = {1},
+  pages = {1604677},
+  date = {2026-09-12},
+  url = {https://doi.org/10.1155/tbed/1604677},
+  doi = {10.1155/tbed/1604677},
+  langid = {en}
+}
+</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-chen2026" class="csl-entry quarto-appendix-citeas">
+Chen, Yue, Lin Yuan, Wenqiang Wang, Lulu Chen, Can Cui, Jie Zhang,
+Zhenbang Zhu, Wei Wen, Kegong Tian, and Xiangdong Li. 2026.
+<span>“Phylogenetic Divergence and Molecular Signatures of Porcine
+Epidemic Diarrhea Virus S-INDEL Subtype.”</span> <em>Transboundary and
+Emerging Diseases</em> 2026 (1): 1604677. <a href="https://doi.org/10.1155/tbed/1604677">https://doi.org/10.1155/tbed/1604677</a>.
+</div></div></section></div> ]]></description>
+  <category>paper</category>
+  <guid>https://myvetai.pages.dev/posts/paper-title/</guid>
+  <pubDate>Fri, 11 Sep 2026 16:00:00 GMT</pubDate>
+  <media:content url="https://myvetai.pages.dev/posts/paper-title/PEDV.jpg" medium="image" type="image/jpeg"/>
+</item>
 <item>
   <title>Quarto Academic Website Examples and Tips</title>
   <link>https://myvetai.pages.dev/</link>
@@ -86,68 +159,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://myvetai.pages.dev/posts/news-title/</guid>
   <pubDate>Sun, 23 Jun 2024 16:00:00 GMT</pubDate>
   <media:content url="https://myvetai.pages.dev/files/images/placeholder3.JPG" medium="image"/>
-</item>
-<item>
-  <title>Phylogenetic Divergence and Molecular Signatures of Porcine Epidemic Diarrhea Virus S-INDEL Subtype</title>
-  <dc:creator>Yue Chen</dc:creator>
-  <dc:creator>Lin Yuan</dc:creator>
-  <dc:creator>et al</dc:creator>
-  <link>https://myvetai.pages.dev/posts/paper-title/</link>
-  <description><![CDATA[ 
-
-
-
-
-<!--Include academic icons or bottons-->
-<!-- 
-Load Academicons v1: https://jpswalsh.github.io/academicons/
--->
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
-<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
-<!---
-The following code are needed to show dimension citation and altmetrics.
-https://api.altmetric.com/embeds.html
-https://badge.dimensions.ai/
---->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>Porcine epidemic diarrhea virus (PEDV) continues to evolve under the selective pressures of vaccine-induced immunity and environmental factors, leading to immune evasion and sustained piglet mortality. In this study, we characterized PEDV field strains collected across China from 2023 to 2026 and observed substantial genetic divergence. Among them, three strains were identified as the S-INDEL subtype, with each located on a distinct branch of the S-INDEL phylogenetic tree. Further analysis revealed branch-specific molecular features. Notably, strains on the S-INDEL-CH-1 and S-INDEL-CH-2 branches carry a three-nucleotide deletion at positions 416–418 in the S gene. To facilitate rapid discrimination of subtypes within the GI genotype and S-INDEL subtype, we established a hierarchical typing scheme that combines predicted N-linked glycosylation site polymorphisms (N1193 and N230) with the S-INDEL-specific deletion pattern, enabling rapid preliminary discrimination among PEDV GI genotype (GIa and GIb) and S-INDEL subtype directly from S gene sequences. Collectively, our findings provide a complementary and practical framework for PEDV GI genotype and S-INDEL subtype classification and yield new insights into the molecular characteristics of the S-INDEL subtype.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://journals.aps.org/pr/pdf/10.1103/Virus1023.1023">paper</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/Virus1023.1023"></div>
-
-<span class="__dimensions_badge_embed__" data-doi="10.1103/Virus1023.1023" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{chen2023,
-  author = {Chen, Yue and Yuan, Lin and al, et},
-  title = {Phylogenetic {Divergence} and {Molecular} {Signatures} of
-    {Porcine} {Epidemic} {Diarrhea} {Virus} {S-INDEL} {Subtype}},
-  journal = {Virus},
-  volume = {1023},
-  number = {1},
-  pages = {777-8023},
-  date = {2023-01-01},
-  url = {https://journals.aps.org/pr/pdf/10.1103/Virus1023.1023},
-  doi = {10.1103/PhysRev.47.777},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-chen2023" class="csl-entry quarto-appendix-citeas">
-Chen, Yue, Lin Yuan, and et al. 2023. <span>“Phylogenetic Divergence and
-Molecular Signatures of Porcine Epidemic Diarrhea Virus S-INDEL
-Subtype.”</span> <em>Virus</em> 1023 (1): 777–8023. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://myvetai.pages.dev/posts/paper-title/</guid>
-  <pubDate>Tue, 14 May 1935 16:00:00 GMT</pubDate>
-  <media:content url="https://myvetai.pages.dev/posts/paper-title/PEDV.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

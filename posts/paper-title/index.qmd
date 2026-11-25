@@ -1,24 +1,30 @@
 ---
 title: "Phylogenetic Divergence and Molecular Signatures of Porcine Epidemic Diarrhea Virus S-INDEL Subtype"
 description: "This study investigated the phylogenetic divergence and molecular signatures of the S-INDEL subtype of the porcine epidemic diarrhea virus (PEDV) in China."
-subtitle: "*Virus* 1023, 1023.1023"
+subtitle: "*Transboundary and Emerging Diseases* 2026, 1604677"
 author: 
   - name: Yue Chen
   - name: Lin Yuan
-  - name: et al
-date: "1935-05-15"
+  - name: Wenqiang Wang
+  - name: Lulu Chen
+  - name: Can Cui
+  - name: Jie Zhang
+  - name: Zhenbang Zhu
+  - name: Wei Wen
+  - name: Kegong Tian
+  - name: Xiangdong Li
+date: "2026-09-12"
 categories: [paper]
 image: "PEDV.jpg"
 citation:
   type: article-journal
-  container-title: "Virus"
-  doi: "10.1103/PhysRev.47.777"
-  available-date: "1023-01-01"
-  issued: "2023-01-01"
-  volume: 1023
+  container-title: "Transboundary and Emerging Diseases"
+  doi: "10.1155/tbed/1604677"
+  issued: "2026-09-12"
+  volume: 2026
   issue: 1
-  page: 777-8023
-  url: https://journals.aps.org/pr/pdf/10.1103/Virus1023.1023
+  page: 1604677
+  url: https://doi.org/10.1155/tbed/1604677
 google-scholar: true
 ---
 
@@ -34,11 +40,11 @@ Porcine epidemic diarrhea virus (PEDV) continues to evolve under the selective p
 
 ## Links
 
-Published [paper](https://journals.aps.org/pr/pdf/10.1103/Virus1023.1023)
+Published [paper](https://doi.org/10.1155/tbed/1604677)
 
 
 ```{=html}
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/Virus1023.1023"></div>
+<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1155/tbed/1604677"></div>
 
-<span class="__dimensions_badge_embed__" data-doi="10.1103/Virus1023.1023" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
+<span class="__dimensions_badge_embed__" data-doi="10.1155/tbed/1604677" data-hide-zero-citations="true" data-style="small_circle"></span><script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
 ```
