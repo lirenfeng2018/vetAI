@@ -1,6 +1,6 @@
 ---
 title: "Quarto Academic, PhD"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+description-meta: "Quarto Academic Website Template adapted by 小狗"
 image: "files/images/placeholder4.JPG"
 page-navigation: false
 toc: false
