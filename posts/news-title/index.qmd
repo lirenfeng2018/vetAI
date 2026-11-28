@@ -1,7 +1,7 @@
 ---
-title: "黄仁勋"
-description: "About 黄仁勋"
-author: "黄仁勋"
+title: "News item"
+description: "About new item"
+author: "News"
 date: "2024-06-24"
 categories: [news]
 image: "/files/images/huang.jpg"

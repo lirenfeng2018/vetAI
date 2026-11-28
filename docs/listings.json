@@ -6,6 +6,16 @@
   {
     "listing": "/posts.html",
     "items": [
+      "/posts/event-title/xumushouyixuehui.html",
+      "/posts/paper-title/index.html",
+      "/posts/event-title/index.html",
+      "/posts/news-title/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/event-title/xumushouyixuehui.html",
       "/posts/paper-title/index.html",
       "/posts/event-title/index.html",
       "/posts/news-title/index.html"
@@ -14,14 +24,6 @@
   {
     "listing": "/people.html",
     "items": []
-  },
-  {
-    "listing": "/index.html",
-    "items": [
-      "/posts/paper-title/index.html",
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html"
-    ]
   },
   {
     "listing": "/projects.html",

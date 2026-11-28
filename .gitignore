@@ -3,3 +3,9 @@
 **/*.quarto_ipynb
 
 /.luarc.json
+
+# Local editor / agent data (never publish)
+/.obsidian/
+/.claudian/
+/.workbuddy/
+/.codebuddy/

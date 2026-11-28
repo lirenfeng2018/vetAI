@@ -1,0 +1,13 @@
+---
+title: "中国畜牧兽医学会第十六次会员代表大会暨第十六届理事会第一次会议"
+description: "畜牧兽医学会"
+author: "李峰"
+date: "2026-11-27"
+categories: [event, presentation]
+image: "/files/images/huiyijietu.png"
+#css: /custom.css
+#draft: true
+---
+
+![会议截图](/files/images/huiyijietu.png){width="90%"}
+[会议链接](https://live32.muinm.com/live/news/106565/intro?wxAuth=-3&inviterId106565=402659)
