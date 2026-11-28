@@ -25,7 +25,32 @@
 
 
 
-<p><img src="https://myvetai.pages.dev/files/images/huiyijietu.png" class="img-fluid" style="width:90.0%" alt="会议截图"> <a href="https://live32.muinm.com/live/news/106565/intro?wxAuth=-3&amp;inviterId106565=402659">会议链接</a></p>
+<div class="quarto-figure quarto-figure-center">
+<figure class="figure">
+<p><img src="https://myvetai.pages.dev/files/images/huiyijietu.png" class="img-fluid figure-img" style="width:90.0%"></p>
+<figcaption>会议截图</figcaption>
+</figure>
+</div>
+<blockquote class="blockquote">
+<p>这是会议链接：<a href="https://live32.muinm.com/live/news/106565/intro?wxAuth=-3&amp;inviterId106565=402659">会议链接</a></p>
+</blockquote>
+<blockquote class="blockquote">
+<p>[x] 会议时间：2026年11月28日 10:00-12:00</p>
+</blockquote>
+<div id="46787f2a" class="cell" data-execution_count="1">
+<div class="code-copy-outer-scaffold"><div class="sourceCode cell-code" id="cb1" style="background: #f1f3f5;"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb1-1"><span class="bu" style="color: null;
+background-color: null;
+font-style: inherit;">print</span>(<span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">2</span> <span class="op" style="color: #5E5E5E;
+background-color: null;
+font-style: inherit;">**</span> <span class="dv" style="color: #AD0000;
+background-color: null;
+font-style: inherit;">5</span>)</span></code></pre></div></div>
+<div class="cell-output cell-output-stdout">
+<pre><code>32</code></pre>
+</div>
+</div>
 
 
 

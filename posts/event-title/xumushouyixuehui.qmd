@@ -8,4 +8,17 @@ image: "/files/images/huiyijietu.png"
 ---
 
 ![会议截图](/files/images/huiyijietu.png){width="90%"}
-[会议链接](https://live32.muinm.com/live/news/106565/intro?wxAuth=-3&inviterId106565=402659)
+
+
+
+> 这是会议链接：[会议链接](https://live32.muinm.com/live/news/106565/intro?wxAuth=-3&inviterId106565=402659)
+
+> [x] 会议时间：2026年11月28日 10:00-12:00
+
+```{python}
+print(2 ** 5)
+```
+
+
+
+
