@@ -1,12 +1,10 @@
 ---
-title: "中国畜牧兽医学会第十六次会员代表大会暨第十六届理事会第一次会议"
-description: "畜牧兽医学会"
-author: "李峰"
-date: "2026-11-27"
-categories: [event, presentation]
+title: "畜牧兽医学会年会"
+description: "第16次会议"
+author: "afeng"
+date: "2026-11-28"
+categories: [event]
 image: "/files/images/huiyijietu.png"
-#css: /custom.css
-#draft: true
 ---
 
 ![会议截图](/files/images/huiyijietu.png){width="90%"}
