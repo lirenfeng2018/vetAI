@@ -118,12 +118,14 @@ $modes = @()
 if ($directOk) { $modes += 'direct' }
 foreach ($proxy in @(Get-ProxyOptions)) { $modes += $proxy }
 if (-not $directOk) { $modes += 'direct' }
-$modes = @($modes | Select-Object -Unique | Select-Object -First $PushRetries)
+$modes = @($modes | Select-Object -Unique)
 if ($modes.Count -eq 0) { $modes = @('direct') }
+$attempts = @()
+for ($i = 0; $i -lt $PushRetries; $i++) { $attempts += $modes[$i % $modes.Count] }
 
 $pushOk = $false
 $lastOpts = @()
-foreach ($mode in $modes) {
+foreach ($mode in $attempts) {
     $opts = @('-c', 'http.lowSpeedLimit=1', '-c', 'http.lowSpeedTime=15')
     if ($mode -ne 'direct') { $opts += @('-c', "http.proxy=$mode") }
     Write-Host "尝试推送：$mode"
@@ -132,7 +134,7 @@ foreach ($mode in $modes) {
     Start-Sleep -Seconds 2
 }
 if (-not $pushOk) {
-    throw "git push 失败（已重试 $($modes.Count) 次）。若为 non-fast-forward，先执行 git pull --rebase $Remote $Branch；若为网络错误，请开启本地代理或稍后重试。"
+    throw "git push 失败（已重试 $($attempts.Count) 次）。若为 non-fast-forward，先执行 git pull --rebase $Remote $Branch；若为网络错误，请开启本地代理或稍后重试。"
 }
 
 Write-Step '5/5 验证远端与线上部署'
